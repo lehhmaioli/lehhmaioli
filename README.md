@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Letícia Maioli
-- 🌱 I’m currently learning Web development
-- 📫 Contact links here soon...
+- 🪐 Hi, I’m Letícia Maioli
+- 💻 I’m currently learning Web development
+- 🔗 Contact links here soon...
 
 <!---
 lehhmaioli/lehhmaioli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
